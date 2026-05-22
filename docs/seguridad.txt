@@ -1,0 +1,2 @@
+Está prohibido compartir contraseñas entre empleados.
+Todos los equipos deben usar autenticación de dos factores.
